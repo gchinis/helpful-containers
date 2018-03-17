@@ -4,7 +4,9 @@ A collections of utility containers to help debug clusters or do other small tas
 
 Like what are the environment variable available to a container running in my kubernetes cluster?
 
-## kubernetes
+## k8s
+
+Useful pods to use with k8s
 
 ### env-variables
 A container to inspect the environment variables available to a container
